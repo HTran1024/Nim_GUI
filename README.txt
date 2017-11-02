@@ -1,9 +1,3 @@
-Name:	Huy Tran
-Course:	CPSC 223J
-Date:	October 28, 2016
-Email:	huytran2012@csu.fullerton.edu
-File:	Nim_GUI.java
-
 Nim_GUI:
 	This file contains what is needed to run the Nim game in GUI form. The file contains three classes: PebbleRow,
 Nim_GUI, and Nim_BrainLVL_0. The PebbleRow class generates random numbers and stores them in an array called rowOfPebbles
